@@ -1,8 +1,8 @@
 # Python Mentor
 
-**Python Tutor Mentor** is an interactive, AI-powered Python tutoring agent designed to guide users through Python programming concepts, debugging, and core topics with clear examples—all within an engaging chat-based interface. Built using the Groq API, this tool maintains session history, provides context-aware responses, and uses an object-oriented design for easy customization and scalability.
+**Python Mentor** is an interactive, AI-powered Python tutoring agent designed to guide users through Python programming concepts, debugging, and core topics with clear examples—all within an engaging chat-based interface. Built using the Groq API, this tool maintains session history, provides context-aware responses, and uses an object-oriented design for easy customization and scalability.
 
-Whether you're a beginner learning Python or an experienced developer looking for quick guidance, Python Tutor Mentor is here to help!
+Whether you're a beginner learning Python or an experienced developer looking for quick guidance, Python Mentor is here to help!
 
 ---
 
@@ -34,7 +34,7 @@ Whether you're a beginner learning Python or an experienced developer looking fo
 The project is organized into modular components for clarity and maintainability:
 
 ```
-python-tutor-mentor/
+Python-Mentor-AI-Agent/
 ├── config.py               # Initializes the Groq API client with your API key.
 ├── agent_base.py           # Base agent class managing session history and the interactive loop.
 └── agent_python_tutor.py   # Python Tutor Mentor agent with system instructions for friendly mentoring.
