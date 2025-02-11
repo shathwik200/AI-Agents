@@ -33,12 +33,12 @@ Whether you're a beginner learning Python or an experienced developer looking fo
 
 The project is organized into modular components for clarity and maintainability:
 
-
+```
 python-tutor-mentor/
 ├── config.py               # Initializes the Groq API client with your API key.
 ├── agent_base.py           # Base agent class managing session history and the interactive loop.
 └── agent_python_tutor.py   # Python Tutor Mentor agent with system instructions for friendly mentoring.
-
+```
 
 
 ## Installation
