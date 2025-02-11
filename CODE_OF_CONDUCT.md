@@ -46,7 +46,7 @@ Examples of representing a project or community include using an official projec
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at [your_email@example.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at shathwik200@gmail.com. All complaints will be reviewed and investigated promptly and fairly.
 
 All project maintainers are obligated to respect the privacy and security of the reporter of any incident.
 
@@ -84,23 +84,3 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
 
----
-
-### How to Add This to Your Project
-
-1. Create a new file in the root directory of your project named `CODE_OF_CONDUCT.md`.
-2. Copy and paste the above text into the file.
-3. Replace `[your_email@example.com]` with your actual email address where users can report violations.
-4. Commit the file to your repository:
-   ```bash
-   git add CODE_OF_CONDUCT.md
-   git commit -m "Add Code of Conduct"
-   git push origin main
-   ```
-
-5. Reference the Code of Conduct in your `README.md` file:
-   ```markdown
-   ## Code of Conduct
-
-   We are committed to fostering an open and welcoming environment. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expectations for participating in this project.
-   ```
