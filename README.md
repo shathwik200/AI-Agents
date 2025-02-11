@@ -55,7 +55,7 @@ Before getting started, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-tutor-mentor.git
+   git clone https://github.com/shathwik200/Python-Mentor-AI-Agent.git
    cd python-tutor-mentor
    ```
 
