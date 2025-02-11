@@ -1,4 +1,4 @@
-# Python Tutor Mentor
+# Python Mentor
 
 **Python Tutor Mentor** is an interactive, AI-powered Python tutoring agent designed to guide users through Python programming concepts, debugging, and core topics with clear examples—all within an engaging chat-based interface. Built using the Groq API, this tool maintains session history, provides context-aware responses, and uses an object-oriented design for easy customization and scalability.
 
@@ -150,7 +150,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 If you have any questions, feedback, or need support, feel free to reach out:
 
 - Open an issue in the repository.
-- Email: [shathwik200@gmail.com]
+- Email: shathwik200@gmail.com
 
 ---
 
